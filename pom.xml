@@ -47,7 +47,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Calculator</mainClass> <!-- Correct main class -->
+                            <mainClass>Laskin</mainClass> <!-- Correct main class -->
                         </manifest>
                     </archive>
                 </configuration>
